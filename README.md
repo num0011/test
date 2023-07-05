@@ -1,20 +1,8 @@
 # test
-## test1
-This is an H1
-=============
-test 프로젝트입니다.
-> This is a first blockqute.
->	> This is a second blockqute.
->	>	> This is a third blockqute.
-
-* 빨강
-  * 녹색
-    * 파랑
-
-+ 빨강
-  + 녹색
-    + 파랑
-
-- 빨강
-  - 녹색
-    - 파랑
+## 학습내용
+### 2023/07/05
+- num0011/test 를 K-Shane 의 GitHub 으로 Fork하는 방법
+1. 프로젝트 오너의 링크 들어가기
+2. 오른쪽 위 포크 '초록색 버튼' 버튼 클릭
+3. 크리에이트 포크 '초록색 버튼' 클릭
+4. K-Shane/test인 것을 확인
