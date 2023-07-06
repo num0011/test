@@ -19,6 +19,10 @@
 2. 깃허브 데스크탑에 표시되는 변경사항(초록: 추가된 내용, 빨강 : 삭제된 내용) 확인
 3. 깃허브 데스크탑의 좌측 하단에 commit 제목과 설명을 적는다.
 4.  commit to main 버튼, push origin 버튼 클릭
+5. 로컬에서 깃헙(오리진)으로 넘어간 내용 확인 후, 내 깃헙에서"This branch is ~ of 프로젝트이름"내용 확인
+6. Create pull request 초록 버튼 클릭 후 제목과 내용을 입력하고 pull request버튼 클릭
+7. 내가 작성한 pull request내용을 확인하고,
+아래에 뜨는 Merge pull request의 경우 작성한 pull request 가 여러개 일경우 한번에 제출하는 버튼임.
 
 - github통해서 협업하는 방법
 1. 한 사람이 프로젝트를 생성한다(오너)
