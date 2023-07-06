@@ -19,3 +19,15 @@
 2. 깃허브 데스크탑에 표시되는 변경사항(초록: 추가된 내용, 빨강 : 삭제된 내용) 확인
 3. 깃허브 데스크탑의 좌측 하단에 commit 제목과 설명을 적는다.
 4.  commit to main 버튼, push origin 버튼 클릭
+
+- github통해서 협업하는 방법
+1. 한 사람이 프로젝트를 생성한다(오너)
+2. 오너는 프로젝트 링크를 통해 팀원을 프로젝트에 초대한다.
+3. 오너는 Issues에서 New Issues 버튼을 이용해 프로젝트의 역할을 분담한다. (Assignees에 담당자 지정) > Submit new issue
+4. 프로젝트에 참여하는 사람은 오너 프로젝트(Upstream)에서 Fork를 한다.
+5. 프로젝트에 참여자가 Fork한 깃허브 저장소(Origin)에서 Clone을 한다.
+6. Local 저장소에서 프로젝트 변경 후 저장
+7. 메세지와 함께 커밋
+8. Local 저장소에서 Origin으로 Push한다.
+9. Origin에서 Upstream으로 Pull reqest메세지에 3번에서 만든 이슈를 태그한 후 Pull reqest한다.
+10. 오너가 머지한다.
