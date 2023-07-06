@@ -12,3 +12,10 @@
 2. code 누르고 open with github desktop을 클릭한다
 3. local path를 고른다
 4. clone을 누른다
+
+### 2023/07/06
+- github프로젝트에서 pull request하는 방법
+1. 로컬 비주얼 스튜디어에서 작업한 변경사항 저장 
+2. 깃허브 데스크탑에 표시되는 변경사항(초록: 추가된 내용, 빨강 : 삭제된 내용) 확인
+3. 깃허브 데스크탑의 좌측 하단에 commit 제목과 설명을 적는다.
+4.  commit to main 버튼, push origin 버튼 클릭
