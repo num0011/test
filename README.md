@@ -12,3 +12,7 @@
 2. code 누르고 open with github desktop을 클릭한다
 3. local path를 고른다
 4. clone을 누른다
+
+### 2023/07/06
+- github프로젝트에서 pull request하는 방법
+1.asdasd
