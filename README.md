@@ -37,3 +37,9 @@
 10. 오너가 머지한다.
 
 ### 2023/07/12
+
+### 2023/07/13
+- branch 생성하는 방법
+1. code의 branches클릭
+2. 오른쪽 초록색 New branch 클릭
+3. branch이름 입력 후 Create new branch 클릭
