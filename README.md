@@ -50,3 +50,6 @@
 1. code의 branches클릭
 2. 오른쪽 초록색 New branch 클릭
 3. branch이름 입력 후 Create new branch 클릭
+
+-main branch에는 완성된 기능이 아니라면 올리지 않는다.
+1. 이는 수정 내용이 main에 들어가서 혼선이 생기지 않게 하기 위함입니다.
