@@ -1,11 +1,18 @@
 # test
 ## 학습내용
 ### 2023/07/05
-- num0011/test 를 K-Shane 의 GitHub 으로 Fork하는 방법
+
+- 처음 포크해왔을떄: 오너 리파지토리(num0011/test) 를 본인의 리파지토리(K-Shane)의 GitHub 으로 Fork하는 방법
 1. 프로젝트 오너의 링크를 복사해서 자신이 로그인된 깃허브에 링크 붙여넣기
-2. 오른쪽 위 포크 '초록색 버튼' 버튼 클릭 > 두번째 Fork라면 Synk Fork
+2. **(오너의 프로필과 자신의 프로필사이에서 혼동하지 않기!)**
+오른쪽 위 포크 '초록색 버튼' 버튼 클릭 > 두번째 Fork라면 Synk Fork
 3. 크리에이트 포크 '초록색 버튼' 클릭
 4. K-Shane/test인 것을 확인
+
+- 이후에 Sync Fork하는 방법
+1. "This branch is up to date with num0011/test:main."이라는 문구가 뜨는지 확인.
+2. 위 문구가 아닌 다른 문구가 떴을 경우 Sync Fork수행 필요.
+3. "This branch is up to date with num0011/test:main." 옆에 Sync Fork 버튼 클릭
 
 - 깃헙에 있는 저장소를 로컬 저장소로 clone하는 방법
 1. 저장소(예시 https://github.com/NAGYUMIN/test) 화면 들어가기
